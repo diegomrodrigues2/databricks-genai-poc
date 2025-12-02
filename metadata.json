@@ -1,0 +1,5 @@
+{
+  "name": "Agent for Unstructured Data",
+  "description": "A VS Code-styled application interface featuring a chat agent sidebar and a main workspace area with internal navigation.",
+  "requestFramePermissions": []
+}
